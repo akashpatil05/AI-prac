@@ -4,8 +4,13 @@ https://chatgpt.com/share/69ff6c45-4ee8-83a7-8d7f-e0de814a8bda
 a*
 https://chatgpt.com/share/6a015ac5-487c-83a9-8d67-343bf083fcc3
 
-selection_sort
-
+prims 
+https://chatgpt.com/share/6a015f83-7538-83ec-80e3-375511750762
+dijkstras
+https://chatgpt.com/share/6a015fc1-6aa4-83e8-8d76-31854e7296cd
+selection sort
+https://chatgpt.com/share/6a015ff1-1a20-83e9-a0c8-487104518227
+krushkals
 
 graph coloring
 https://chatgpt.com/share/6a015b39-811c-8321-a3ab-aed7731f3852
