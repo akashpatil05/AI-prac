@@ -1,0 +1,19 @@
+public class StudentController {
+     
+   
+    public static void addStudent(String name, Integer age, String email, String course) {
+        Student__c s = new Student__c();
+
+        s.Name = name;
+        s.Age__c = age;
+        s.Email__c = email;
+        s.Course__c = course;
+
+        insert s;
+    }
+
+
+    public static List<Student__c> getStudents() {
+        return [SELECT Id, Name, Age__c, Email__c, Course__c FROM Student__c];
+    }
+}
